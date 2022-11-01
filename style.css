@@ -1,0 +1,114 @@
+.body {
+    
+        margin: 0;
+            box-sizing: border-box;
+            height: 100px;
+            background-color:#4A3E59 ;
+           width: 100%;
+           height: 100vh;
+          
+           
+           
+
+
+}
+
+.Navbar{
+position: static;
+background-color: #D9D9D9;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+background-size: cover;
+}
+
+#Joki {
+position:absolute;
+top: 30%;
+left: 50%;
+}
+#texto {
+position: absolute;
+left: 15%;
+top: 55%;
+font-family: Arial, Helvetica, sans-serif;
+color: #AA3C3C;
+font-size: 14px;
+display: flex;
+}
+#Imagem1 {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+#Imagem2 {
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+#Imagem3 {
+    position: absolute;
+    top: 20%;
+    left: 75%;
+}
+#Imagem4 {
+    position: absolute;
+    top: 65%;
+    left: 75%;
+}
+#Titulo {
+color: #DE2668;
+position: absolute;
+top: 25%;
+left: 40%;
+font-size: 75px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#TextoG{
+        background-color: white;
+        color: #AA3C3C;
+        position: absolute;
+        top: 50%;
+        left: 10%;
+        font-size: 8px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    
+
+}
+
+.redes{
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    background-size: cover;
+}  
+#Imagem5 {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
+#Imagem6 {
+    position: absolute;
+    top: 70%;
+    left: 15%;
+}
+#Imagem7 {
+    position: absolute;
+    top: 10%;
+    left: 80%;
+}
+#Imagem8 {
+    position: absolute;
+    top: 70%;
+    left: 80%;
+}
+.Contato{
+position: absolute;
+top: 25%;
+left: 25%;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+
+}
